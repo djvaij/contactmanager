@@ -1,15 +1,15 @@
 {
-  "main.css": "/djvaij/contactmanager/static/css/main.6d3e2ed6.chunk.css",
-  "main.js": "/djvaij/contactmanager/static/js/main.5259857d.chunk.js",
-  "main.js.map": "/djvaij/contactmanager/static/js/main.5259857d.chunk.js.map",
-  "static/css/1.3b12528e.chunk.css": "/djvaij/contactmanager/static/css/1.3b12528e.chunk.css",
-  "static/js/1.80cb0bd9.chunk.js": "/djvaij/contactmanager/static/js/1.80cb0bd9.chunk.js",
-  "static/js/1.80cb0bd9.chunk.js.map": "/djvaij/contactmanager/static/js/1.80cb0bd9.chunk.js.map",
-  "runtime~main.js": "/djvaij/contactmanager/static/js/runtime~main.20145a1b.js",
-  "runtime~main.js.map": "/djvaij/contactmanager/static/js/runtime~main.20145a1b.js.map",
-  "static/css/1.3b12528e.chunk.css.map": "/djvaij/contactmanager/static/css/1.3b12528e.chunk.css.map",
-  "static/css/main.6d3e2ed6.chunk.css.map": "/djvaij/contactmanager/static/css/main.6d3e2ed6.chunk.css.map",
-  "index.html": "/djvaij/contactmanager/index.html",
-  "precache-manifest.0c38356fa1be64d334581050bd6f8dcb.js": "/djvaij/contactmanager/precache-manifest.0c38356fa1be64d334581050bd6f8dcb.js",
-  "service-worker.js": "/djvaij/contactmanager/service-worker.js"
+  "main.css": "/contactmanager/static/css/main.6d3e2ed6.chunk.css",
+  "main.js": "/contactmanager/static/js/main.20216a4f.chunk.js",
+  "main.js.map": "/contactmanager/static/js/main.20216a4f.chunk.js.map",
+  "static/css/1.3b12528e.chunk.css": "/contactmanager/static/css/1.3b12528e.chunk.css",
+  "static/js/1.80cb0bd9.chunk.js": "/contactmanager/static/js/1.80cb0bd9.chunk.js",
+  "static/js/1.80cb0bd9.chunk.js.map": "/contactmanager/static/js/1.80cb0bd9.chunk.js.map",
+  "runtime~main.js": "/contactmanager/static/js/runtime~main.72aa8290.js",
+  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.72aa8290.js.map",
+  "static/css/1.3b12528e.chunk.css.map": "/contactmanager/static/css/1.3b12528e.chunk.css.map",
+  "static/css/main.6d3e2ed6.chunk.css.map": "/contactmanager/static/css/main.6d3e2ed6.chunk.css.map",
+  "index.html": "/contactmanager/index.html",
+  "precache-manifest.c5b844db7ef03db94e0d539582e3e423.js": "/contactmanager/precache-manifest.c5b844db7ef03db94e0d539582e3e423.js",
+  "service-worker.js": "/contactmanager/service-worker.js"
 }
